@@ -1,0 +1,24 @@
+{
+  "name": "giphy-peer-act",
+  "version": "1.0.0",
+  "description": "[X] set up .gitignore, readme and directories/files [X] create html [X] spin up server [X] connect index and spin up on local host [X] $http request to giphy api's [X] use angular to put on DOM [X] create a service [ ] make pretty with bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindseyolson/giphy-peer-act.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindseyolson/giphy-peer-act/issues"
+  },
+  "homepage": "https://github.com/lindseyolson/giphy-peer-act#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
